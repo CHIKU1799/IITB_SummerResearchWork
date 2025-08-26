@@ -46,3 +46,17 @@ The repository includes graphical results showing **Power vs. Load Resistance** 
 ---
 
 ## 📂 Repository Structure
+.
+├── README.md                     
+├── po_mppt.m                     
+├── ic_mppt.m                     
+├── simulations/                   
+│   ├── buck_boost_converter.slx   
+│   └── pv_mppt_simulation.slx     
+├── report/                        
+│   └── final_report.pdf           
+└── images/                        
+└── pv_curve.png              
+
+
+undefined
